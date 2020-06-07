@@ -1,7 +1,7 @@
 # IppSec-Code
 Code from Ippsec Videos
 
-This repository contains the code as written by IppSec in his HackTheBox videos on YouTube. I thought it would be useful to have a repository of the code to refer to when needed. However, it is always a good idea if you are learning from the videos to write them along with him. You will understand the code that much better.
+This repository is a work-in-progress and contains the code as written by IppSec in his HackTheBox videos on YouTube. I thought it would be useful to have a repository of the code to refer to when needed. However, it is always a good idea if you are learning from the videos to write them along with him. You will understand the code that much better.
 
 The machines may only be accessible on HackTheBox through the VIP subscription - but the videos are free.
 
