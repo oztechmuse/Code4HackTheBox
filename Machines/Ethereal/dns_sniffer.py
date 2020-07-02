@@ -15,7 +15,7 @@ LHOST = "10.10.14.27"
 RHOST = "ethereal.htb:8080"
 
 class Terminal(Cmd):
-    prompt = '> '
+    self.prompt = '> '
 
     def __init__(self):
         self.auth = HTTPBasicAuth('alan', '!C414m17y57r1k3s4g41n!')
